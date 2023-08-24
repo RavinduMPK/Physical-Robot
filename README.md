@@ -3,7 +3,8 @@
 Welcome to the repository for our robot competition project! This repository contains the code and details for a robot designed to excel in a series of challenging physical subtasks. Our robot is designed to navigate a line maze, follow a curved wall, solve a blind box challenge, and demonstrate line-following capabilities.
 
 ## Project Overview
-![Task](https://github.com/RavinduMPK/Physical-Robot/assets/68577937/a77ab8e8-c58f-40ef-bc3b-af5c54bc226a)
+![Task](https://github.com/RavinduMPK/Physical-Robot/assets/68577937/19232b7c-f208-4518-8976-905df7b997b3)
+
 
 Our project aims to develop a versatile robot capable of tackling a range of physical challenges. These challenges test the robot's navigation, control, and problem-solving abilities. The main subtasks include:
 
@@ -40,8 +41,8 @@ The repository is structured as follows:
 - Fully structured code
 
 ## Media Showcase
-![Physical_Robot](https://github.com/RavinduMPK/Physical-Robot/assets/68577937/92c3a024-8cd2-4241-a368-fcf8e1d2b009)
-![Physical_Robot_1](https://github.com/RavinduMPK/Physical-Robot/assets/68577937/123ab37c-baa6-4b0a-99c6-fa06984a126e)
-![Physical_Robot_2](https://github.com/RavinduMPK/Physical-Robot/assets/68577937/c98c9085-394c-414c-9543-6b4d32262ae6)
-![Physical_Robot_3](https://github.com/RavinduMPK/Physical-Robot/assets/68577937/be6dda80-5fcc-4a74-a5f4-266c1c7a6dc5)
+![Physical_Robot_3](https://github.com/RavinduMPK/Physical-Robot/assets/68577937/c79ccab6-8c26-4631-8988-cb98f38a599c)
+![Physical_Robot_2](https://github.com/RavinduMPK/Physical-Robot/assets/68577937/ab8260e5-1d9d-4596-b0c6-7eee8cce683e)
+![Physical_Robot_1](https://github.com/RavinduMPK/Physical-Robot/assets/68577937/ea73612e-a9ff-4236-b1cc-3f198ca3dc8b)
+![Physical_Robot](https://github.com/RavinduMPK/Physical-Robot/assets/68577937/8deb7d83-8d81-4324-9bd0-15517c4e3f3c)
 
